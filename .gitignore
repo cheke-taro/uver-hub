@@ -1,0 +1,5 @@
+# 収集したデータ(SQLite)はGitに含めない
+data/
+__pycache__/
+.venv/
+.env
