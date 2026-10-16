@@ -1,2 +1,5 @@
 google-genai
 feedparser
+trafilatura
+googlenewsdecoder
+flask
